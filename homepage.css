@@ -1,0 +1,19 @@
+.mainheading{
+    text-align: center;
+}
+.container .curriculum{
+    padding:2%;
+    background:red;
+    margin:2%;
+}
+.container{
+    text-align: center;
+}
+
+
+
+a{
+    text-decoration: none;
+    color:black;
+    margin:5%;
+}
