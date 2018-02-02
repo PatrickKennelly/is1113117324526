@@ -1,4 +1,4 @@
-
+ 
 
 .clear{
     position:relative;
@@ -9,8 +9,22 @@
     border-radius: 50%;
 }
 
-a{
+.buttons a{
     text-decoration: none;
     color:white;
 }
+
+.buttons input{
+    padding:2%;
+    color:white;
+    background: green;
+}
+
+.buttons button{
+ padding:2%;
+ color:white;
+ background: green;
+}   
+}
+
 
