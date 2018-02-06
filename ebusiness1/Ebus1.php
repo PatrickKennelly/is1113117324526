@@ -38,12 +38,14 @@
               </label>
               
               <br/>
+              <br/>
               
               <label for="total">
                 Total
                 <input type="text" id="total" value="0.00" readonly/>
               </label>
     
+              <br/>
               <br/>
               
               <button type="submit" id="btnProceed" disabled>Add to Shopping Cart</button>
