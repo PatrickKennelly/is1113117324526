@@ -1,13 +1,19 @@
 #section1{
-    background-color: rgb(238, 0, 90);
+    background : url("https://files.foreignaffairs.com/styles/large-crop-landscape/s3/taxonomy-images/region-france.jpg?itok=0LEfTGDA");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #section2{
-    background-color: rgb(44, 62, 80);
+    background: url("https://lonelyplanetimages.imgix.net/a/g/hi/t/dcf1e0ec17d14df8fac9a7a57c7af63d-china.jpg?sharp=10&vib=20&w=1200");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #section3{
-    background-color: rgb(51, 153, 204);
+    background: url("https://www.socialtalent.com/wp-content/uploads/2016/03/Cliffs.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .section{
