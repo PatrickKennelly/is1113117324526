@@ -21,3 +21,20 @@
     color: white;
 }
 
+#section4{
+    background: url("http://pandora.com/images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#section5{
+    background: url("http://pandora.com/images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#section6{
+    background: url("http://pandora.com/images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
