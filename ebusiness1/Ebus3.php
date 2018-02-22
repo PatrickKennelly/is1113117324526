@@ -13,5 +13,7 @@ session_start();
         // Echo session variables that were set on previous page
         echo "Total is " . $_SESSION["total"] . ".";
         ?>
+        </br>
+         <a href="../homepage.html"><input type="button" value="Home"></a>
     </body>
 </html>
