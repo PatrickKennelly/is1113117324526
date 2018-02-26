@@ -1,7 +1,15 @@
 
 
-body{
-    background-image: url("https://scontent-dub4-1.xx.fbcdn.net/v/t1.0-9/17884633_1865164400368430_7471246106502700701_n.jpg?oh=56d3e3c9ca802916d25554b378c9b42b&oe=5B15500A");
-    background-repeat: no-repeat;
-    
+.sportspic{
+    position: absolute;
+    height: 50%;
+    width: 70%;
+    top: 10%;
+    left: 40%;
 }
+
+ body {
+     background-image: url("http://pandora.com/images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
