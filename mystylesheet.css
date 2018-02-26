@@ -26,6 +26,12 @@
  background: green;
 }   
 
+ body{
+     background-image: url("http://pandora.com/images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+
 
 
 
