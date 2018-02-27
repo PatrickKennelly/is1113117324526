@@ -46,3 +46,16 @@
     top: 50%;
     left: 50%;
 }
+
+.button{
+    position: absolute;
+    top: 113%;
+    left: 80%;
+}
+
+.button2{
+    position: absolute;
+    top: 113%;
+    left: 84%;
+    
+}

@@ -52,6 +52,22 @@
                 <input type="text" id="subtotal" value="0.00" readonly/>
               </label>
               
+              br/>
+              
+              <label for="discount">
+                Discount @ 5%
+                <input type="text" id="discount" name="discount" value="0.00" readonly/>
+              </label>
+              
+              <br/>
+              
+              <label for="vat">
+                Vat @ 10%
+                <input type="text" id="vat" name="vat" value="0.00" readonly/>
+              </label>
+              
+              <br/>
+              
               <br/>
               <br/>
               
