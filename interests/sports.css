@@ -13,3 +13,9 @@
     background-repeat: no-repeat;
     background-size: cover;
  }
+ 
+     .buttons button{
+ padding:2%;
+ color:white;
+ background: green;
+ }
