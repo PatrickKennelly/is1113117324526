@@ -53,12 +53,14 @@
               </label>
               
               <br/>
+              <br/>
               
               <label for="discount">
                 Discount @ 5%
                 <input type="text" id="discount" name="discount" value="0.00" readonly/>
               </label>
               
+              <br/>
               <br/>
               
               <label for="vat">
