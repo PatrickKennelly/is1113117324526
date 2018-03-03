@@ -10,6 +10,8 @@
     </head>
     
     <body>
+      
+      <!--Adding radio buttons as options for products-->
         
             <h4>Select a Product</h4>
             
@@ -47,6 +49,8 @@
               <br/>
               <br/>
               
+              <!--Adding textboxes-->
+              
               <label for="subtotal">
                 Sub Total
                 <input type="text" id="subtotal" value="0.00" readonly/>
@@ -80,6 +84,8 @@
     
               <br/>
               <br/>
+              
+              <!--Adding buttons-->
               
               <button type="submit" id="btnProceed" disabled>Add to Shopping Cart</button>
             

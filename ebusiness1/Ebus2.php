@@ -18,6 +18,8 @@ session_start();
     
     <body>
         
+        <!--Adding details section for payment-->
+        
         <h4>Please enter your payment details.</h4>
         
             <br />
@@ -36,6 +38,8 @@ session_start();
                 <label for="user_pin">
                      PIN 
                 </label>
+                
+                <!--Adding buttons-->
                 
                 <input type="password" id="user_pin" placeholder="Card Pin" maxlength="4">
                     
