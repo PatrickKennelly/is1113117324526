@@ -26,17 +26,20 @@ session_start();
             
             <form method = "POST" action = "Ebus3.php">
                 
-                <label for="Name">Full Name: </label><br/>
-                    <input type="text" name="firstname" id="user_name" maxlength="20" placeholder="First.." class="name">
-                    <input type="text" name="lastname"id="last_name" maxlength=20 placeholder="Last.." class="name">
-                    <br/><br/>
+                <label for="Name">Full Name: </label>
+                    <br/>
+                    <input type="text" name="firstname" id="user_name" maxlength="20" placeholder="Firstname" class="name">
+                    <input type="text" name="lastname"id="last_name" maxlength="20" placeholder="Surname" class="name">
+                    <br/>
+                    <br/>
                     <label for="email">Email:</label>
                     <br/>
                     <input type="text" name="email" id="user_Email" maxlength="30" placeholder="Your Email..">
-                    <br/><br/>
+                    <br/>
+                    <br/>
                 
                 <label for="user_pin">
-                     PIN 
+                     PIN: 
                 </label>
                 
                 <!--Adding buttons-->

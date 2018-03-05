@@ -17,8 +17,11 @@ session_start();
            
              //Displaying details that were inputed on previous page
             echo "Name: ". $_POST["firstname"];
-            echo " " . $_POST["lastname"] .  "<br/>"; 
+            
+            echo " " . $_POST["surname"] .  "<br/>"; 
+            
             echo "Email: " . $_POST["email"] . "<br/>";
+            
             echo "Your total is: $" . $_SESSION["total"] . ".";
             ?>
         </br>
