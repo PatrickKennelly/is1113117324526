@@ -1,1 +1,2 @@
 # is1113117324526
+There was a number of reoccurring errors that appeared as I validated the code. Primarily relating to my button. I chose to leave the code as it was because the functionality was not affected.

@@ -56,7 +56,7 @@ session_start();
             
             <button onClick="validateDetails()"> Validate </button>
         
-        <script ="text/javascript" src="Ebus2_validator.js"></script>
+        <script type ="text/javascript" src="Ebus2_validator.js"></script>
         <?php
         // Set session variables
         $_SESSION["total"] = $_POST["total"];
