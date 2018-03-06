@@ -29,7 +29,7 @@ session_start();
                 <label for="Name">Full Name: </label>
                     <br/>
                     <input type="text" name="firstname" id="user_name" maxlength="20" placeholder="Firstname" class="name">
-                    <input type="text" name="lastname"id="last_name" maxlength="20" placeholder="Surname" class="name">
+                    <input type="text" name="lastname" id="last_name" maxlength="20" placeholder="Surname" class="name">
                     <br/>
                     <br/>
                     <label for="email">Email Address:</label>
@@ -56,7 +56,7 @@ session_start();
             
             <button onClick="validateDetails()"> Validate </button>
         
-        <script type="text/javascript" src="Ebus2_validator.js"></script>
+        <script ="text/javascript" src="Ebus2_validator.js"></script>
         <?php
         // Set session variables
         $_SESSION["total"] = $_POST["total"];
