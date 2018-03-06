@@ -18,6 +18,7 @@ function calcSub(){
     
    calcDisVatTotal(argSubTotal);
 }
+
 function calcDisVatTotal(parmSubTotal){
   var subTotal = parmSubTotal;
   var discountAmt;

@@ -59,3 +59,10 @@
     left: 84%;
     
 }
+
+.cloudheading{
+    position: absolute;
+    z-index:9 ;
+    left:34%;
+    top:1%;
+}
